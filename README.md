@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, ---------SOCCER--------
+http://whatever.ts
+#EXTINF:-1,SOCCER - JUVENTUS-SEVILLA - UEFA YOUTH LEAGUE
+acestream://f93705c959cf55a6940290cc60185f01ddc6a057
